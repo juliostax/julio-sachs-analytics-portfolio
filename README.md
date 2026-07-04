@@ -1,7 +1,6 @@
 # julio-sachs-analytics-portfolio
 Julio Sachs — Analytics & Quantitative Modeling Portfolio
 
-Julio Sachs — Analytics &amp; Quantitative Modeling Portfolio
 Physics-trained analyst, technical founder, and business operator with experience in Python modeling, marketplace analytics, revenue forecasting, fulfillment optimization, financial analysis, and quantitative strategy research.
 
 This portfolio highlights three representative projects across business analytics, applied probability modeling, and trading-strategy simulation.
