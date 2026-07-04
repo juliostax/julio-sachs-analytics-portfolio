@@ -190,5 +190,6 @@ Python, trading simulation, market-data analysis, dashboarding, regime detection
 **Julio Andres Sachs**
 Email: [julio@puroast.com](mailto:julio@puroast.com)
 LinkedIn: https://www.linkedin.com/in/julio-sachs-834843230/
+
 GitHub: https://github.com/juliostax/julio-sachs-analytics-portfolio
 
